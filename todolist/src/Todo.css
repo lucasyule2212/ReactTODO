@@ -1,0 +1,6 @@
+List btn-check:focus + .btn, List .btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+/*# sourceMappingURL=Todo.css.map */
